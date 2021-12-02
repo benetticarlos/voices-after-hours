@@ -1,0 +1,27 @@
+{
+  "name": "Voces After Hours",
+  "description": "Gatsby starter for a Contentful project.",
+  "keywords": [
+    "voice",
+    "voces",
+    "after",
+    "hours",
+    "gatsby",
+    "contentful",
+    "starter",
+    "podcast",
+    "radio",
+    "obsidian",
+    "octosoft"
+  ],
+  "repository": "git@github.com:obsidian-software-service/VoicesAfterHours.git",
+  "success_url": "/",
+  "buildpacks": [
+    {
+      "url": ""
+    },
+    {
+      "url": ""
+    }
+  ]
+}
